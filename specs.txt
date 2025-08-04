@@ -1,0 +1,19 @@
+basic
+infix to postfix
+postfix evaluation
+
+
+assume
+    non negative integers
+    logical operators only 1 and 0
+
+
+
+precedence
+PEMDAS
+    parenthesis
+    exponent
+    multiplication, division, modulo
+    addition, subtraction
+    relational
+    logical

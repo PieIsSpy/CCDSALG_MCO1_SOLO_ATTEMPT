@@ -1,0 +1,19 @@
+malloc
+https://www.geeksforgeeks.org/c/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
+https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm
+
+function pointers
+https://www.geeksforgeeks.org/c/function-pointer-in-c/
+
+linked list
+https://www.geeksforgeeks.org/dsa/linked-list-data-structure/
+https://www.geeksforgeeks.org/dsa/singly-linked-list-tutorial/
+https://www.geeksforgeeks.org/dsa/introduction-to-linked-list-data-structure/
+https://www.programiz.com/dsa/linked-list-operations
+https://www.geeksforgeeks.org/dsa/implement-a-stack-using-singly-linked-list/
+
+the meat
+https://www.geeksforgeeks.org/dsa/convert-infix-expression-to-postfix-expression/
+https://en.cppreference.com/w/c/language/operator_precedence.html
+
+wowwie
